@@ -40,3 +40,4 @@ vignettes/*.pdf
 ./test/Musterloesung.Rmd
 
 ./test/*
+./test2/file3.R
