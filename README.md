@@ -12,3 +12,6 @@ and now I want to remove the entire file!
 okay did not work
 
 second try
+
+
+Versuch 2: ich will nur file3.R verstecken
