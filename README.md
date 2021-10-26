@@ -1,17 +1,10 @@
 # myTestRepro
-test to delete stuff
 
-okay, I just added some stuff, commit & push up
+This is my test repository (sorry for the typo in the name). 
 
-okay, now I add some stuff on github directly
+Here I can test and practise. 
 
-okay, now I make some changes in one of the files
+## Test 1: Permanent remove file
 
-and now I want to remove the entire file!
+For my first test, I needed Carls help. I wanted to remove some files, and it did not work initially. He managed to remove the target files ("Musterloesung"). I tried later with another test file ("File3.R"), and it worked, too. No idea what I did differently. 
 
-okay did not work
-
-second try
-
-
-Versuch 2: ich will nur file3.R verstecken
