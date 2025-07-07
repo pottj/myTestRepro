@@ -4,6 +4,8 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
+[Link to another page](./docs/another_test_page.html).
+
 # My test repository
 
 This is my test repository (sorry for the typo in the name). Here I can test and practise. 
@@ -20,8 +22,8 @@ I dont know how this works!
 
 Now I added a _config.yml file, lets see if something changes ...
 
-![Overview1](https://github.com/pottj/myTestRepro/blob/main/docs/Overview_new.png)
+![Overview1](/docs/Overview_new.png)
 
 ### Large image
 
-![Branching]([Overview1](https://github.com/pottj/myTestRepro/blob/main/docs/Overview_new.png))
+![Branching](https://github.com/pottj/myTestRepro/blob/main/docs/Overview_new.png)
