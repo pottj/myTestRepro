@@ -1,4 +1,14 @@
-# myTestRepro
+---
+layout: default
+---
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+# My test repository
 
 This is my test repository (sorry for the typo in the name). Here I can test and practise. 
 
