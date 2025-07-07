@@ -8,10 +8,24 @@ For my first test, I needed Carls help. I wanted to remove some files, and it di
 
 A line I wrote on my computer in the office. 
 
-## TEst 2: create a page for this repository
+## Test 2: create a page for this repository
 
 I dont know how this works!
 
 Now I added a _config.yml file, lets see if something changes ...
 
 I think it works now? THe config files uses the index and other test file from the docs sub directory? 
+
+Okay, now summarize what I did to make it work: 
+
+- create docs subdirectory and an index.md file with simple markdown structure
+- create _config.yml next to the repository README.md (highest level!), will need to look something like
+
+```yml
+title: Minimal theme
+logo: path/to/figure.png
+description: Minimal is a theme for GitHub Pages.
+theme: jekyll-theme-minimal
+```
+
+- go to settings/pages and select github actions - deploy jekyll
