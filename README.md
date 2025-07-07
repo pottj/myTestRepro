@@ -19,3 +19,9 @@ A line I wrote on my computer in the office.
 I dont know how this works!
 
 Now I added a _config.yml file, lets see if something changes ...
+
+![Overview1](https://github.com/pottj/myTestRepro/blob/main/docs/Overview_new.png)
+
+### Large image
+
+![Branching]([Overview1](https://github.com/pottj/myTestRepro/blob/main/docs/Overview_new.png))
